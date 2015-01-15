@@ -1,0 +1,17 @@
+{
+  "name": "wasipo-heroku-template",
+  "version": "1.0.0",
+  "description": "Template for heroku app",
+  "private": true,
+  "main": "index.js",
+  "keywords": [
+    "Template"
+  ],
+  "author": "Wasipo",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "express": "^4.11.0",
+  }
+}
